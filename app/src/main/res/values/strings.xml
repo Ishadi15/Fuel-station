@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelStation</string>
+
+    <string name="sample_username">Dilsha Ishadi</string>
+    <string name="sample_balance">LKR 15,680.00</string>
+</resources>
